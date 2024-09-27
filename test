@@ -1,3 +1,4 @@
 git commit -m "Heading of the commit message" -m "- Point 1: Description of the first change or update
 - Point 2: Description of the second change or update
 - Point 3: Description of the third change or update"
+
